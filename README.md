@@ -38,6 +38,8 @@
 
 > The accounts and their respective  passwords that user wants to save are saved in a `database` where accounts are saved as it is and their the passwords are stored in the `hashed` form.
 
+![Account Storage](account-storage.gif)
+
 ## Technologies Used
 
 > [![](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/downloads/release/python-380/) is used as Programming Language.
